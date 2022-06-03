@@ -1,2 +1,2 @@
 # AddingFeaturesInTreegram-Ruby-on-Rails
-In this project i used the Treegram(something like Instagram for study)  and i added features like title in posts comments delete method and follow between users in ruby on rails. The project is based in controller model view architecture
+In this project i used the Treegram(something like Instagram for study)  and i added features like title in posts comments delete method and follow between users in ruby on rails. The project is based in controller model view architecture. The virtual machne of treegram with my changes can be found in https://drive.google.com/drive/folders/1naZV_JnVQNPQDcUF5oe8pywjXXsLmsAh?usp=sharing
